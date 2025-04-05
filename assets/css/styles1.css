@@ -1,3 +1,54 @@
 .red-border {
     border: 2px solid red;
 }
+
+#desafio1 {
+    text-align: center;
+    display: block;
+}
+
+#desafio1 img {
+    width: 150px;
+    height: 150px;
+}
+
+
+#desafio2 > div {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+    text-align: center;
+}
+
+#desafio2 img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+#desafio2 {
+    text-align: center;
+}
+
+#desafio2 input[type="number"] {
+    text-align: center;
+    display: block;
+    width: 60px;
+    margin: 0 auto 15px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+#desafio2 button {
+    padding: 10px 20px;
+    display: block;
+    margin: 10px auto 0;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+
+#desafio3 {
+    text-align: center;
+}
